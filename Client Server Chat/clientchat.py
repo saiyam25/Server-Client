@@ -21,4 +21,4 @@ while True:
 
 # Close connection
 client_socket.close()
-print("Chat closed.")
+print("Chat Closed.")
